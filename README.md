@@ -1,0 +1,1 @@
+## Exemplo simples de trabalho com threads usando o synchronized para travar o programa quando executado por uma thread para demais.
